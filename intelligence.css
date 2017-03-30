@@ -19,13 +19,11 @@ text-decoration: underline;
 .nav-tab:visited {
   color: #008000;
 }
- p {
-  font-family: "Times New Roman", Times, serif;
-  font-size: 19px;
+
 }
  li{
   font-family:"Times New Roman", Times, serif;
-  font-size: 19px;
+  font-size: 30px;
 }
 #Bold{
 color:blue;
